@@ -140,7 +140,7 @@ Agent Swarm
   ↓
   Final Output
 
-````
+```
 
 ---
 
@@ -203,7 +203,7 @@ Each agent must follow this schema:
   "input_format": {},
   "output_format": {}
 }
-````
+```
 
 ---
 
