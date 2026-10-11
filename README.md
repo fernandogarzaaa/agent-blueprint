@@ -99,8 +99,8 @@ Plan → Execute → Evaluate → Improve → Repeat
 - Semantic (repo knowledge)
 - Procedural (decisions made)
 
-**Storage:**
-- `.context/`
+**Storage:** (canonical layout; see §9 folder structure)
+- `memory/.context/`
   - `/tasks`
   - `/sessions`
   - `/decisions`
@@ -159,6 +159,9 @@ Use for:
 ---
 
 ### Project AETHER → Orchestration Core
+> Status (2026-10-11): no `fernandogarzaaa/Project-AETHER` repo exists yet.
+> Treat as a planned component to be built, not a source to extract from.
+> Until it exists, the coordinator role is covered by the Task Decomposer in §4.
 Extract:
 - Task decomposition logic
 - Model routing
